@@ -1,10 +1,17 @@
 
-I'm Riccardo, welcome to my GitHub profile!
+# Hi, I'm Riccardo 👋
 
-I’m currently studying Statistics at the University of Edinburgh. 
-My interests range from machine learning applications in finance and neuroscience to building products with data driven components that can have a positive social impact.
-In short, I’m interested in pretty much anything that can be analysed, understood, or created with data and programming, which, luckily, is quite a lot of stuff.
+Welcome to my GitHub profile!
 
-🔭  Project(s) I'm currently working on:
+I'm currently studying **Statistics at the University of Edinburgh**.
 
-- Uncovering patterns in neural circuits and their link with cellular identity. This projectaims to discover the underlying complex identity and interactions of neurons that mediate memory processing.
+My interests sit somewhere between **machine learning**, **finance**, **neuroscience**, and data-driven products with a positive social impact.
+
+Basically, I like anything that can be analysed, understood, or built with data and code, which, luckily, is quite a lot of stuff!
+
+---
+
+## 🔭 What I'm currently working on
+
+- **Neural circuits and cellular identity**  
+  Exploring patterns in neural circuits and their links with cellular identity, with the goal of understanding the complex neuron interactions involved in memory processing.
