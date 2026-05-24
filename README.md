@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 
 I'm currently studying **Statistics at the University of Edinburgh**.
 
-My interests sit somewhere between **machine learning**, **finance**, **neuroscience**, and data-driven products with a positive social impact.
+My interests sit somewhere between **machine learning**, **finance**, **neuroscience**, and imagining and possibly building data-driven products with a positive social impact.
 
 Basically, I like anything that can be analysed, understood, or built with data and code, which, luckily, is quite a lot of stuff!
 
